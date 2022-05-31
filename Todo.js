@@ -1,4 +1,4 @@
-const todo = document.getElementById("todo");
+const todo = document.getElementById("todos");
 // const form=document.getElementsById("form");
 
 addEventListener('submit', e => {
